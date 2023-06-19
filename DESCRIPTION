@@ -1,0 +1,38 @@
+Package: mdljhhrvodsUI
+Type: Package
+Title: Demo ui package for module in DMS.
+Version: 1.2.0
+Author: hulilei
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+Collate: 
+    'demo.R'
+    'button.R'
+    'text.R'
+    'date.R'
+    'jhhrv.R'
+    'jhhrvsalary.R'
+    'jhhrvsocialsecurity.R'
+    'jhhrvdetail.R'
+    'jhhrvrddetail.R'
+    'jhhrvnonrddetail.R'
+    'jhhrvrulevoucher.R'
+    'jhhrvtploutputvoucher.R'
+    'jhhrvtplvoucher.R'
+    'jhhrvfnote.R'
+    'jhhrvacct.R'
+    'jhhrvdept.R'
+    'jhhrvacctreclass.R'
+    'jhhrvworkcenter.R'
+    'jhhrvrditem.R'
+    'jhhrvcosucompany.R'
+    'jhhrvmiddleTable.R'
+    'jhhrvdeptcomparison.R'
+    'jhhrvcategoryTypeTable.R'
+    'jhhrvpreCheck.R'
+    'jhhrvdefaultValue.R'

@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1686731193043.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C40A1E56",
+    "lastKnownWriteTime" : 1686731516,
+    "last_content_update" : 1686731516838,
+    "path" : "~/app/zzy/jhhrvsqlquery/jhhrvods/mdljhhrvodsUI/R/jhhrvcategoryTypeTable.R",
+    "project_path" : "R/jhhrvcategoryTypeTable.R",
+    "properties" : {
+        "cursorPosition" : "30,2",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
