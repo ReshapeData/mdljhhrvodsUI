@@ -39,7 +39,7 @@ buttonrulevoucherUI_left <- function() {
 
   res <- tagList(
 
-    shiny::actionButton(inputId = 'btn_view_rulevoucher' , label = '预览表单数据'),
+    shiny::actionButton(inputId = 'btn_hrv_ods_view_rulevoucher' , label = '预览表单数据'),
 
 
   )
@@ -60,7 +60,7 @@ buttonrulevoucherUI_left <- function() {
 #' buttonUI_right()
 buttonrulevoucherUI_right <- function() {
   res <- tagList(
-    tsui::uiScrollX(tsui::mdl_dataTable(id = 'view_data_rulevoucher', label = '出口'))
+    tsui::uiScrollX(tsui::mdl_dataTable(id = 'hrv_ods_view_data_rulevoucher', label = '出口'))
   )
   return(res)
 

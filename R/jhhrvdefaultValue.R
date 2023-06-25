@@ -39,7 +39,7 @@ buttondefaultValueUI_left <- function() {
 
   res <- tagList(
 
-    shiny::actionButton(inputId = 'btn_view_defaultValue' , label = '预览表单数据'),
+    shiny::actionButton(inputId = 'btn_hrv_ods_view_defaultValue' , label = '预览表单数据'),
 
 
   )
@@ -60,7 +60,7 @@ buttondefaultValueUI_left <- function() {
 #' buttonUI_right()
 buttondefaultValueUI_right <- function() {
   res <- tagList(
-    tsui::uiScrollX(tsui::mdl_dataTable(id = 'view_data_defaultValue', label = '出口'))
+    tsui::uiScrollX(tsui::mdl_dataTable(id = 'hrv_ods_view_data_defaultValue', label = '出口'))
   )
   return(res)
 
